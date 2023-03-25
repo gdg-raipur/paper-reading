@@ -18,12 +18,14 @@ We hope that this collection of paper discussions provides useful insights and p
 # Project Details
 This project is a part of our ongoing efforts to study computer vision concepts and stay up-to-date with the latest research in the field.
 
-# Technologies Used
-Python
-PyTorch
-Jupyter Notebook
-Google Colab
-Contributors
-John Smith (@abhiksark)
-# License
-This project is licensed under the MIT License.
+## Technologies Used
+- [Python](https://www.python.org/)
+- [PyTorch](https://pytorch.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Google Colab](https://colab.research.google.com/)
+
+## Contributors
+- Abhik Sarkar([@abhiksark](https://github.com/abhiksark))
+
+## License
+This project is licensed under the [MIT License](https://github.com/username/project/blob/main/LICENSE).
