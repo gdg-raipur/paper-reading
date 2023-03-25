@@ -1,5 +1,7 @@
 ## Session Overview
 
+[![Arxiv](https://img.shields.io/badge/ArXiv-1409.1556-orange.svg?color=blue)](https://arxiv.org/abs/1409.1556)
+
 During this paper discussion session, we will cover the following topics:
 
 - The motivation behind the VGG architecture
