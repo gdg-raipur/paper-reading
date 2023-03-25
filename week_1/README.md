@@ -23,3 +23,5 @@ During the paper discussion session, we will go over the architecture in detail,
 The VGG architecture had a significant impact on the field of computer vision, both in terms of its performance on the ImageNet classification task and its influence on subsequent research. The VGG architecture achieved state-of-the-art results on the ImageNet task in 2014, and its success inspired further research into deeper and more complex neural network architectures.
 
 During the paper discussion session, we will explore the impact of the VGG architecture on the field of computer vision and discuss its lasting legacy.
+
+![VGG Architecture](vgg.png)

@@ -24,3 +24,6 @@ During the paper discussion session, we will go over the architecture in detail,
 The ResNet architecture had a significant impact on the field of computer vision, both in terms of its performance on the ImageNet classification task and its influence on subsequent research. The ResNet architecture achieved state-of-the-art results on the ImageNet task in 2015, and its success inspired further research into deeper neural networks with skip connections.
 
 During the paper discussion session, we will explore the impact of the ResNet architecture on the field of computer vision and discuss its lasting legacy.
+
+
+![ResNet Architecture](resnet.png)
