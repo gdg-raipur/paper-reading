@@ -9,6 +9,8 @@ During this paper discussion session, we will cover the following topics:
 - The shortcomings of R-CNN
 - The motivation for Faster R-CNN
 - The architecture Faster R-CNN and its components other than stated above
+- The shortcomings of Fast R-CNN
+
 
 ## RCNN
 [![Arxiv](https://img.shields.io/badge/ArXiv-1311.2524-orange.svg?color=blue)](https://arxiv.org/abs/1311.2524)
