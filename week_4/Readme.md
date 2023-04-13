@@ -17,6 +17,7 @@ The Faster R-CNN paper was motivated by the need to address the limitations and 
 
 ### Concept of Region Proposal Network (RPN)
 Region Proposal Network (RPN): Faster R-CNN replaces the external region proposal method, such as selective search, with an integrated Region Proposal Network. The RPN is a fully convolutional neural network that is trained to generate region proposals directly from the feature map produced by the CNN backbone. This integration significantly speeds up the region proposal process, making the overall object detection pipeline more efficient.
+![RPN](rpn.png)
 
 ### The difference in Architecture between Faster R-CNN and Fast R-CNN
 The main difference between Faster R-CNN and Fast R-CNN is that the former uses a Region Proposal Network (RPN) to generate region proposals, while the latter uses an external region proposal method, such as selective search. The RPN is a fully convolutional neural network that is trained to generate region proposals directly from the feature map produced by the CNN backbone. This integration significantly speeds up the region proposal process, making the overall object detection pipeline more efficient.
