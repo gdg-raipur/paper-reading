@@ -1,6 +1,5 @@
-## Session Overview
+# Session Overview
 
-[![Arxiv](https://img.shields.io/badge/ArXiv-1311.2524-orange.svg?color=blue)](https://arxiv.org/abs/1311.2524)
 
 During this paper discussion session, we will cover the following topics:
 
@@ -10,6 +9,10 @@ During this paper discussion session, we will cover the following topics:
 - The shortcomings of R-CNN
 - The motivation for Faster R-CNN
 - The architecture Faster R-CNN and its components other than stated above
+
+## RCNN
+[![Arxiv](https://img.shields.io/badge/ArXiv-1311.2524-orange.svg?color=blue)](https://arxiv.org/abs/1311.2524)
+
 
 ### The motivation behind the R-CNN architecture
 
@@ -51,6 +54,8 @@ During the paper discussion session, we will explore the impact of the R-CNN arc
 
 These limitations of the R-CNN architecture motivated the development of subsequent object detection frameworks, such as Fast R-CNN and Faster R-CNN, which addressed many of these issues by introducing more efficient feature extraction, streamlined training processes, and end-to-end training capabilities.
 
+
+## Fast RCNN
 [![Arxiv](https://img.shields.io/badge/ArXiv-1311.2524-orange.svg?color=blue)](https://arxiv.org/abs/1311.2524)
 
 
