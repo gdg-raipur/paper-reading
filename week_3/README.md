@@ -67,8 +67,9 @@ The Fast R-CNN architecture introduces several key improvements over the origina
 
 2. Region of Interest (RoI) Pooling: To handle the varying sizes of region proposals, Fast R-CNN introduces a new RoI pooling layer, which resizes the feature maps corresponding to each region proposal to a fixed size. This enables the network to use fully connected layers for further processing and classification.
    
-    [![Arxiv](https://img.shields.io/badge/ArXiv-1703.06870-orange.svg?color=blue)](https://arxiv.org/abs/1311.2524)
-![Roi Pooling](roi_pooling.jpg)
+    [![Arxiv](https://img.shields.io/badge/ArXiv-1703.06870-orange.svg?color=blue)](https://arxiv.org/abs/1703.06870)
+    
+    ![Roi Pooling](roi_pooling.jpg)
 
 
 1. Integrated classification and bounding box regression: Fast R-CNN integrates both the classification and bounding box regression tasks into a single network. After the RoI pooling layer, fully connected layers are used to simultaneously output class probabilities and bounding box coordinates, replacing the separate SVM classifier and regression model used in the original R-CNN.
