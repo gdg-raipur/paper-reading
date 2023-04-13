@@ -1,9 +1,9 @@
 # Session Overview
 
 During this paper discussion session, we will cover the following topics:
-    - The motivation behind the Faster R-CNN architecture
-    - Concept of Region Proposal Network (RPN)
-    - The difference in Architecture between Faster R-CNN and Fast R-CNN
+- The motivation behind the Faster R-CNN architecture
+- Concept of Region Proposal Network (RPN)
+- The difference in Architecture between Faster R-CNN and Fast R-CNN
   
 
 ## Faster RCNN
