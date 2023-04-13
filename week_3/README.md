@@ -36,7 +36,7 @@ The R-CNN architecture had a significant impact on the field of computer vision,
 During the paper discussion session, we will explore the impact of the R-CNN architecture on the field of computer vision and discuss its lasting legacy.
 
 
-![RCNN Architecture](rcnn.png)
+![RCNN Architecture](rcnn.jpeg)
 
 
 ### The shortcomings of R-CNN
