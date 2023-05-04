@@ -36,7 +36,7 @@ if __name__ == "__main__":
 
     # Filter the region proposals
     min_area = 500
-    max_proposals = 100
+    max_proposals = 10
     filtered_rects = filter_rects(rects, min_area, max_proposals)
 
     output = image.copy()
